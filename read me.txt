@@ -1,0 +1,2 @@
+*a pagina inicial desse projeto está em restrito/admin.php
+* O BD SQL está na raiz, codificado
